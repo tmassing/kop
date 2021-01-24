@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+.text-kop-red {
+  color: #A21D21;
+}
+
+/* kop: #EFCF6E */

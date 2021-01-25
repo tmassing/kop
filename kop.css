@@ -4,10 +4,13 @@ html, body {
 
 body {
   background-color: black;
+  font-family: 'Corben', cursive;
 }
 
 .text-kop-red {
   color: #A21D21;
 }
 
-/* kop: #EFCF6E */
+.text-kop-yellow {
+  color: #EFCF6E;
+}

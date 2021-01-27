@@ -11,6 +11,11 @@ body {
   color: #A21D21;
 }
 
+.button-kop-red {
+  background-color: #A21D21;
+  border-color: #A21D21;
+}
+
 .text-kop-yellow {
   color: #EFCF6E;
 }
